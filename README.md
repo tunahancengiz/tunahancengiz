@@ -29,6 +29,8 @@ C# Developer
 
 <a href="https://github.com/tunadeveloper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunadeveloper&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![snake gif](https://github.com/tunahancengiz/tunahancengiz/blob/output/github-contribution-grid-snake.gif)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/tunahancengiz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
